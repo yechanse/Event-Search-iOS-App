@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DBCEBF79-FC18-42AA-A783-E8BB9F0C8CA9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11108446-9DF9-4F4E-B825-5374DDB8F048"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hw9project/EventDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "585"
+            endingLineNumber = "585"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FC44C68-3805-47CD-A770-FD1074B07F18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hw9project/EventDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "728"
+            endingLineNumber = "728"
+            landmarkName = "FavoritesClass"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5FC44C68-3805-47CD-A770-FD1074B07F18 - 9c64526a8fb34d13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for favoritesKey"
+                  moduleName = "hw9project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yechanseo/Desktop/HW9/hw9project/hw9project/EventDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "762"
+                  endingLineNumber = "762"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "5FC44C68-3805-47CD-A770-FD1074B07F18 - 846a84750c46a303"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hw9project.FavoritesManager.favoritesKey.unsafeMutableAddressor : Swift.String"
+                  moduleName = "hw9project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yechanseo/Desktop/HW9/hw9project/hw9project/EventDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "762"
+                  endingLineNumber = "762"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
