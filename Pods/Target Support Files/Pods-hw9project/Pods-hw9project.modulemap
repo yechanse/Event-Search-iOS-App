@@ -1,0 +1,6 @@
+framework module Pods_hw9project {
+  umbrella header "Pods-hw9project-umbrella.h"
+
+  export *
+  module * { export * }
+}
