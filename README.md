@@ -5,7 +5,7 @@ This project is an iOS app for event searching, developed using SwiftUI. It allo
 
 ## Demo (Click the image below to view project demo on YouTube)
 <a href="https://youtu.be/WTNoXApsUcg" target="_blank">
- <img src="https://github.com/yechanse/Event-Search-iOS-App/assets/122432845/3fff0a07-6ce3-4c6a-81cc-ed2d0a33f782" alt="iOS App Project Demo Video" width="300" height="600"/>
+ <img src="https://github.com/yechanse/Event-Search-iOS-App/assets/122432845/3755980a-0ad5-46a8-8c09-a2fcce016c0b" alt="iOS App Project Demo Video" width="300" height="600"/>
 </a>
 <br>
 https://youtu.be/WTNoXApsUcg
