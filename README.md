@@ -3,13 +3,13 @@
 This project is an iOS app for event searching, developed using SwiftUI. It allows users to search for events, view event details, and obtain information about artists, venues, and albums. The app integrates with various APIs to fetch event data and provide additional functionalities.
 
 
-## Demo (Click the image below to view project demo on YouTube)
-<a href="https://youtu.be/WTNoXApsUcg" target="_blank">
- <img src="https://github.com/yechanse/Event-Search-iOS-App/assets/122432845/3755980a-0ad5-46a8-8c09-a2fcce016c0b" alt="iOS App Project Demo Video" width="300" height="600"/>
-</a>
+## Demo (Click the URL below to view the project demo on YouTube)
+<img src="https://github.com/yechanse/Event-Search-iOS-App/assets/122432845/3755980a-0ad5-46a8-8c09-a2fcce016c0b" alt="iOS App Project Demo Video" width="300" height="600" />
+
 <br>
 https://youtu.be/WTNoXApsUcg
 
+<br><br>
 ## Features
 
 - Event Search: Allows users to search for events using keywords and location.
@@ -29,7 +29,7 @@ https://youtu.be/WTNoXApsUcg
 | -------- | -------------------- |
 | Backend  | Node.js + Express.js |
 | Frontend | SwiftUI              |
-
+<br><br>
 ## Server side code
 
 ### Library Used
